@@ -6,7 +6,7 @@
 - *Kim, S. H., Kim, J., Jeong, K., & Kim, J. S. (2019). Transaction support using compound commands in key-value SSDs. In 11th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 19).*
 
 > 이제연 Paper
-- *Title*
+- *Yuan, X., & Yang, J. (2020, March). Effective Concurrency Testing for Distributed Systems. In Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1141-1156).*
 
 ### 20210112
 > 이성현 Paper
