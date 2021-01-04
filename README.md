@@ -1,4 +1,4 @@
-#20201_Winter_Paper-presentation
+# 20201_Winter_Paper-presentation
 
-##Presenter
+## Presenter
 -20210105 / 이광희, 이제연
