@@ -10,28 +10,28 @@
 
 ### 20210112
 > 이성현 Paper
-- *Title*
+- *Yunus Ozen, Abdullah Yildirim. (2019, February). Performance comparison and analysis of Linux block I/O schedulers on SSD. Sakarya University Journal of Science*
 
 > 신호진 Paper
-- *Title*
+- *Junsu Im and Jinwook Bae, DGIST; Chanwoo Chung and Arvind, Sungjin Lee. (2020). PinK: High-speed In-storage Key-value Store with Bounded Tails. (USENIX ATC' 20)*
 
 ### 20210119
 > 촘소판하피치 Paper
-- *Title*
+- *Dong-Yun Lee, Kisik Jeong, Sang-Hoon Han, Jin-Soo Kim, Joo-Young Hwang, and Sangyeun Cho. (2017). Understanding Write Behaviors of Storage Backends in Ceph Object Store. (MSST' 17)*
 
 > 한예진 Paper
-- *Title*
+- *Yang Zhan et al. (2020). How to Copy Files. (USENIX ATC' 20)*
 
 ### 20210126
 > 송인호 Paper
-- *Title*
+- *Shengwen Liang and Ying Wang et al. (2019). Cognitive SSD: A Deep Learning Engine for In-Storage Data Retrieval. (USENIX ATC' 19)*
 
 > 이영재 Paper
-- *Title*
+- *Sage Weil, Scott A. Brandt, Ethan L. Miller, Darrell D. E. Long, Carlos Maltzahn. (2006, November). Ceph: A Scalable, High-Performance Distributed File System. (OSDI '06)*
 
 ### 20210202
 > 오명훈 Paper
 - *Title*
 
 > 허진 Paper
-- *Title*
+- *Dennix M, Ritichie, Ken Thompson. (1974 July). The UNIX time-sharing system. Communications of the ACM*
