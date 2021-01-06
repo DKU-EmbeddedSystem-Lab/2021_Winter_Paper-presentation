@@ -20,7 +20,7 @@
 - *Dong-Yun Lee, Kisik Jeong, Sang-Hoon Han, Jin-Soo Kim, Joo-Young Hwang, and Sangyeun Cho. (2017). Understanding Write Behaviors of Storage Backends in Ceph Object Store. (MSST' 17)*
 
 > 한예진 Paper
-- *Yang Zhan et al. (2020). How to Copy Files. (USENIX ATC' 20)*
+- *Mingzhe Hao et al. (2020). LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network. (USENIX OSDI' 20)*
 
 ### 20210126
 > 송인호 Paper
