@@ -25,7 +25,6 @@
 ### 20210126
 > 송인호 Paper
 - *Yujie Ren et al. (2020). CrossFS: A Cross-layered Direct-Access File System. (USENIX OSDI' 20)*
-- (20210223)*Shengwen Liang and Ying Wang et al. (2019). Cognitive SSD: A Deep Learning Engine for In-Storage Data Retrieval. (USENIX ATC' 19)*
 
 > 이영재 Paper
 - *Sage Weil, Scott A. Brandt, Ethan L. Miller, Darrell D. E. Long, Carlos Maltzahn. (2006, November). Ceph: A Scalable, High-Performance Distributed File System. (OSDI '06)*
