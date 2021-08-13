@@ -31,7 +31,7 @@
 
 ### 20210202
 > 오명훈 Paper
-- *Title*
+- *Aghayev, A., Weil, S., Kuchnik, M., Nelson, M., Ganger, G. R., & Amvrosiadis, G. (2019, October). File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution. In Proceedings of the 27th ACM Symposium on Operating Systems Principles (pp. 353-369)*
 
 > 허진 Paper
 - *Dennix M, Ritichie, Ken Thompson. (1974 July). The UNIX time-sharing system. Communications of the ACM*
