@@ -31,7 +31,7 @@
 - **
 
 > 김산 Paper
-- **
+- *Huang, Gui, et al. "X-Engine: An optimized storage engine for large-scale E-commerce transaction processing." Proceedings of the 2019 International Conference on Management of Data. 2019.*
 
 ### 20210830
 > 신호진 Paper
