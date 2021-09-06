@@ -35,7 +35,7 @@
 
 ### 20210830
 > 신호진 Paper
-- **
+- *Chen Luo, Michael J.Carey "LSM-based Storage Techniques: A Survey", VLDB, 2019*
 
 > 한예진 Paper
 - *Liao X., Lu Y., & Shu J. (2021, July). MAX: A Multicore-Accelerated File System for Flash Storage. In 2021 {USENIX} Annual Technical Conference ({USENIX}{ATC} 21) (pp. 877-891)*
